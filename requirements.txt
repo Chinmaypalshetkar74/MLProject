@@ -1,10 +1,11 @@
-<<<<<<< HEAD
+
 pandas
 numpy 
 seaborn 
-=======
+
 pandas
 numpy 
 seaborn 
->>>>>>> a46b2b493f66311e4049358f14966605d2b88a75
+xgboost
+catboost
 -e . 

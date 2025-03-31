@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 from setuptools import find_packages, setup
 from typing import List
 
@@ -22,7 +22,7 @@ setup(
     packages=find_packages(exclude=["tests", "docs"]),
     install_requires=get_requirements("requirements.txt"),
 )
-=======
+
 from setuptools import find_packages, setup
 from typing import List
 
@@ -46,4 +46,3 @@ setup(
     packages=find_packages(exclude=["tests", "docs"]),
     install_requires=get_requirements("requirements.txt"),
 )
->>>>>>> a46b2b493f66311e4049358f14966605d2b88a75
